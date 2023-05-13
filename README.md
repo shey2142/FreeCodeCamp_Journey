@@ -22,3 +22,7 @@ If the function is given the optional starting day of the week parameter, then t
 2.test_module.py
 
 The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
+
+
+## License
+This project belongs to Free Code Camp and has an educational aspect
